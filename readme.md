@@ -6,9 +6,7 @@
 
 
 ## Albin Pirela
-computer science student at Santiago Mariño University and some studies carried out in freecodecamp and udemy,
-musician, professional stylist,
-I am responsible, punctual, efficient and compliant. as a frontend developer I give my best effort
+### A passionate software engineer, driven by curiosity and a love of learning new things.
 ## Folow me
 - GitHub: [@Albinpirela](https://github.com/Albinpirela)
 - Twitter: [@AlbinPirela1](https://twitter.com/AlbinPirela1)
